@@ -7,7 +7,7 @@ Este proyecto es sobre el uso e implementacion de Maven y GitHub con java.
 Inicialmente es necesario la clonacion del proyecto para el manejo de las herramientas.
 
 ```
-git clone https://github.com/mariahv9/ComplexCalculatorAREP
+git clone https://github.com/mariahv9/CalculatorAREP.git
 ```
 
 
