@@ -16,6 +16,7 @@ git clone https://github.com/mariahv9/CalculatorAREP.git
 Desde consola ejecutar los siguientes comandos para ingresar a la clase App:
 
 ```
+cd CalculatorAREP
 mvn package
 java -cp target/mi-primera-app-1.0-SNAPSHOT.jar edu.escuelaing.arep.app.calculator.App
 ```
